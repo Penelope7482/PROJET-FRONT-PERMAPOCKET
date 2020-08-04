@@ -7,9 +7,6 @@ Help to create a template of a garden in permaculture
 
 <img src="img/page d'accueil.png" width="300">    <img src="img/drag and drop.png" width="300">
 
-<iframe id="videoDemo"
-    title="Démonstration Desktop"
-    width="300"
-    height="200"
-    src="../Créer votre jardin - Google Chrome 2020-08-04 23-12-15">
-</iframe>
+Démo en vidéo pour la version desktop: https://youtu.be/s71sCG4cUlk
+Démo en vidéo pour la version mobile: https://youtu.be/zJLhXUTsfpo
+
