@@ -4,4 +4,5 @@ Projet de fin de formation WebForce 3- module Front, réalisé en quelques jours
 
 Help to create a template of a garden in permaculture 
 
-<img src="img/page d'accueil.png">
+<img src="img/page d'accueil.png" style="width:200px; height: 200px">
+<img src="img/drag and drop.png" style="width:200px; height: 200px">
